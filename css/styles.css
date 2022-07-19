@@ -1,0 +1,84 @@
+body {
+  background-color: white;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+  width: 30%;
+}
+
+h3 {
+  color: #BBBBBB;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  color: #3CCF4E;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  font-family: 'Merriweather', serif;
+}
+.price{
+  color: #3CCF4E;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.btn {
+  background: #5fad5f;
+  background-image: -webkit-linear-gradient(top, #5fad5f, #2bb850);
+  background-image: -moz-linear-gradient(top, #5fad5f, #2bb850);
+  background-image: -ms-linear-gradient(top, #5fad5f, #2bb850);
+  background-image: -o-linear-gradient(top, #5fad5f, #2bb850);
+  background-image: linear-gradient(to bottom, #5fad5f, #2bb850);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #56fc3c;
+  background-image: -webkit-linear-gradient(top, #56fc3c, #34d934);
+  background-image: -moz-linear-gradient(top, #56fc3c, #34d934);
+  background-image: -ms-linear-gradient(top, #56fc3c, #34d934);
+  background-image: -o-linear-gradient(top, #56fc3c, #34d934);
+  background-image: linear-gradient(to bottom, #56fc3c, #34d934);
+  text-decoration: none;
+}
+
+div{
+  background-color: skyblue;
+
+  line-height: 100px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  
+
+}
+
+img {
+  width: 500px;
+  height: 500px;
+  margin: 20px 0;
+}
+.attribution{
+  text-decoration: none;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: red;
+  text-align: center;
+
+
+}
+
+a:hover{
+  color: #EAF6F6;
+}
